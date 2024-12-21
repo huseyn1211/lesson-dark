@@ -1,0 +1,8 @@
+ ul li{
+    font-size: 20px;
+    width: 20%;
+     text-decoration: line-through 
+}
+ol li{
+    font-size: 20px;
+}
